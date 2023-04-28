@@ -1,4 +1,4 @@
-티스토리 - https://dohun-0714.tistory.com/20
+티스토리링크 - https://dohun-0714.tistory.com/20
 
 
 # healthnutrition
