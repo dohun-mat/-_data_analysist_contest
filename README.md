@@ -67,6 +67,7 @@
 - 해당 지역의 위험 질병 순위 알림 기능
 ![image](https://user-images.githubusercontent.com/103898937/222125390-d9f7d6c7-a91b-4ad3-b48e-722d193f525f.png)
 
+![KakaoTalk_20230428_160301496](https://user-images.githubusercontent.com/81942144/235079270-f92fb179-2ada-4f0c-af52-3b35f9f3c4fe.jpg)
 
 
 #참가 후기
