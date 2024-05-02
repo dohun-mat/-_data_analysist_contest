@@ -7,7 +7,7 @@
 
 ![KakaoTalk_20230428_160301496](https://user-images.githubusercontent.com/81942144/235079270-f92fb179-2ada-4f0c-af52-3b35f9f3c4fe.jpg)
 
-<img src="https://user-images.githubusercontent.com/81942144/235079270-f92fb179-2ada-4f0c-af52-3b35f9f3c4fe.jpg" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/81942144/235079270-f92fb179-2ada-4f0c-af52-3b35f9f3c4fe.jpg" width="600" height="800"/>
 
 
 
