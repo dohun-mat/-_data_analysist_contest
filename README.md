@@ -4,7 +4,7 @@
 # healthnutrition
 
 수원대학교 국민건강영양데이터 분석 경진대회에 참여해 최우수상을 수상했습니다.
-![KakaoTalk_20230428_160301496](https://user-images.githubusercontent.com/81942144/235079270-f92fb179-2ada-4f0c-af52-3b35f9f3c4fe.jpg)
+![KakaoTalk_20230428_160301496](https://user-images.githubusercontent.com/81942144/235079270-f92fb179-2ada-4f0c-af52-3b35f9f3c4fe.jpg){: width="100" height="100"}
 
 
 
