@@ -4,9 +4,10 @@
 # healthnutrition
 
 수원대학교 국민건강영양데이터 분석 경진대회에 참여해 최우수상을 수상했습니다.
-![image](https://github.com/dohun-mat/korea_nutrition_health_data_analysis_contest/assets/81942144/76632c99-bb04-4fc1-9a3b-c2aa7e0923b0)
 
 ![KakaoTalk_20230428_160301496](https://user-images.githubusercontent.com/81942144/235079270-f92fb179-2ada-4f0c-af52-3b35f9f3c4fe.jpg)
+
+<img src="https://user-images.githubusercontent.com/81942144/235079270-f92fb179-2ada-4f0c-af52-3b35f9f3c4fe.jpg" width="200" height="400"/>
 
 
 
